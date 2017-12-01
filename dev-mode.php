@@ -4,7 +4,7 @@ Plugin Name: Dev Mode
 Description: Add a development mode, which will warn users you are currently working on their site.
 Author: Jason Kinslow
 Version: 0.0.1
-Author URI: https://www.makespaceweb.com
+Author URI: https://www.kinslowdesigns.com
 */
 
 //this will include my plugin options folder
